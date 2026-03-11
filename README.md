@@ -17,8 +17,8 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Pakistan-blue?logo=organicmaps" />
-    <a href="mailto:kingshah2003@gmail.com"><img src="https://img.shields.io/badge/kingshah2003%40gmail.com-blue?style=plastic&logo=gmail" /></a>
+    <img src="https://img.shields.io/badge/PAKISTAN-1e1e2e?style=for-the-badge&logo=organicmaps" />
+    <a href="mailto:kingshah2003@gmail.com"><img src="https://img.shields.io/badge/kingshah2003%40gmail.com-1e1e2e?style=for-the-badge&logo=gmail" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -28,7 +28,7 @@
 <p align="left">
 
   <a href="https://github.com/ahmadshahdev">
-    <img src="https://img.shields.io/badge/Github-blue?style=flat&logo=github&logoSize=auto" />
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoSize=auto" />
   </a>
 
   <a href="https://www.instagram.com/ig_codxboss">
