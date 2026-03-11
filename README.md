@@ -1,16 +1,81 @@
-## Hi there 👋
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<!--
-**ahmadshahdev/ahmadshahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Syed Ahmad Shah</strong>
+</h1>
 
-Here are some ideas to get you started:
+<h3>Product Designer (UI/UX) | Graphic Designer | Front-End Developer </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I build digital products that balance aesthetic precision with functional performance. 
+    With a background spanning GRAPHIC DESIGN, UI/UX, and FRONT-END DEVELOPMENT.
+    I specialize in closing the gap between a design concept and a live, scalable product.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Pakistan-blue?logo=organicmaps" />
+    <a href="mailto:kingshah2003@gmail.com"><img src="https://img.shields.io/badge/kingshah2003%40gmail.com-blue?style=plastic&logo=gmail" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+
+  <a href="https://github.com/ahmadshahdev">
+    <img src="https://img.shields.io/badge/Github-blue?style=flat&logo=github&logoSize=auto" />
+  </a>
+
+  <a href="https://www.instagram.com/ig_codxboss">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/syed-ahmad-shah-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+</p>
+
+<br clear="all" />
+
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind" />
+</td>
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,ps" />
+</td>
+</tr>
+</table>
+</p>
+
